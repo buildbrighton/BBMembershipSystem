@@ -6,6 +6,10 @@ BBMS (Build Brighton Member System)
 
 The Build Brighton membership management system
 
+### Modernisation and releases
+
+See [the modernisation plan and manual release process](docs/modernisation.md) for the behaviour-preserving upgrade programme and server deployment records.
+
 New members can join and create accounts, payments are tracked and managed through the system.
 
 
